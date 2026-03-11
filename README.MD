@@ -32,29 +32,12 @@ pip install requests
 ```
 
 ---
-
-## Program usage
-
-```
-python3 fetch_sequences.py «database» «query»
-```
-
-Example:
-
-```
-python3 fetch_sequences.py nucleotide "BRCA1[gene] AND Homo sapiens[orgn]"
-```
-
----
-
 ## Input arguments
 
 * database – NCBI database to search (e.g., `nucleotide`, `protein`)
 * query – Entrez search query string
 
 Example query syntax follows the **NCBI Entrez search format**.
-
----
 
 ## Output
 
@@ -71,11 +54,10 @@ The script performs the following steps:
 5. Use **EFetch** to download the sequences in **FASTA format**.
 6. Print the sequences to **STDOUT**.
 
----
-
 ## Author
 
 Student project developed for the ASB UC.
 Instructor: Professor Francisco Pina
 
 Students : Henrique Silva 2024151657
+
