@@ -6,7 +6,7 @@
 python3 fetch_sequences.py «database» «query»
 ```
 
-
+#Example
 ```
 python3 fetch_sequences.py nucleotide "BRCA1[gene] AND Homo sapiens[orgn]"
 ```
@@ -60,4 +60,5 @@ Student project developed for the ASB UC.
 Instructor: Professor Francisco Pina
 
 Students : Henrique Silva 2024151657
+
 
