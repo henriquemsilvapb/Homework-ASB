@@ -59,7 +59,12 @@ The script performs the following steps:
 Student project developed for the ASB UC.
 Instructor: Professor Francisco Pina
 
-Students : Henrique Silva 2024151657
+Students : 
+Henrique Silva 2024151657
+Rafel Cancelinha 202300423
+Sebastião Bello 2024156178
+Miguel Severino 2024121067
+
 
 
 
